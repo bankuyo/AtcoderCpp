@@ -35,7 +35,7 @@
   - docker上の開発環境にてc++を実装しているため、**通常のjupyterlabで実行は不可能です**。
   - 必要に応じてgitからcloneしてご利用ください。
 
-### （補足） 開発環境のセットアップについて　<mac:terminal/windows:コマンドプロンプトにて操作>
+## （補足） 開発環境のセットアップについて　<mac:terminal/windows:コマンドプロンプトにて操作>
 - dockerの準備　: https://www.docker.com/
 - gitのインストール : "git -v"にてインストール確認 => https://git-scm.com/downloads
 - ディレクトリに移動 => git clone https://github.com/bankuyo/AtcoderCpp.git
