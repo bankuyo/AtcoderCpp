@@ -3,6 +3,7 @@
 
 ## Overview: 競技プログラミングAtCoderの練習リポジトリ
 - Atcoderの練習のために残しているものです。
+- 自分の解き方や考え方、実装の際のメモなどを全て残しております。
 - Problemディレクトリ内にこれまで解いてきた問題があります。
 - github上のipynbファイルから直接notebook内のプログラムを伺えます。
 - 言語は全てc++で書かれてあります。
@@ -22,6 +23,8 @@
   - 自分の解き方や考え方、実装の際のメモなどを全て残しております。
   - #### Utility : 使えそうな小技が入っています
     - EuclidianAlgorithm : ユークリッド互除法・拡張ユークリッド互除法についてまとめられています。
+    - NumString : NumとStringの変換方法をまとめています。
+    - PositionalNotation : 基数変換についてまとめられています。
     - STL : 標準ライブラリのプログラムがまとめられています。
     - DynamicProgramming : 動的計画法に関するプログラムがまとめられています。
     - bit : bit全探索についてまとめられています。
@@ -53,6 +56,8 @@
   - AtcoderProgram
     - Utility
       - EuclidianAlgorithm
+      - NumString
+      - PositionalNotation
       - STL.ipynb
       - DynamicProgramming.ipynb
       - bit.ipynb
